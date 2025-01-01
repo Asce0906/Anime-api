@@ -1,0 +1,185 @@
+[
+    {
+      "animeName": "Naruto",
+      "genre": "Action",
+      "episodes": 220,
+      "rating": 8.3,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Attack on Titan",
+      "genre": "Action, Drama",
+      "episodes": 87,
+      "rating": 9.1,
+      "isDubbed": true
+    },
+    {
+      "animeName": "One Piece",
+      "genre": "Adventure, Fantasy",
+      "episodes": 1075,
+      "rating": 8.8,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Death Note",
+      "genre": "Thriller, Mystery",
+      "episodes": 37,
+      "rating": 9.0,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Demon Slayer",
+      "genre": "Action, Fantasy",
+      "episodes": 44,
+      "rating": 8.7,
+      "isDubbed": true
+    },
+    {
+      "animeName": "My Hero Academia",
+      "genre": "Action, Superhero",
+      "episodes": 138,
+      "rating": 8.5,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Jujutsu Kaisen",
+      "genre": "Action, Supernatural",
+      "episodes": 24,
+      "rating": 8.8,
+      "isDubbed": false
+    },
+    {
+      "animeName": "Tokyo Ghoul",
+      "genre": "Horror, Action",
+      "episodes": 48,
+      "rating": 7.9,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Hunter x Hunter",
+      "genre": "Adventure, Fantasy",
+      "episodes": 148,
+      "rating": 9.0,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Bleach",
+      "genre": "Action, Adventure",
+      "episodes": 366,
+      "rating": 8.1,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Sword Art Online",
+      "genre": "Fantasy, Sci-Fi",
+      "episodes": 96,
+      "rating": 7.7,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Fairy Tail",
+      "genre": "Adventure, Fantasy",
+      "episodes": 328,
+      "rating": 7.9,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Steins;Gate",
+      "genre": "Sci-Fi, Thriller",
+      "episodes": 24,
+      "rating": 9.1,
+      "isDubbed": false
+    },
+    {
+      "animeName": "Fullmetal Alchemist: Brotherhood",
+      "genre": "Adventure, Fantasy",
+      "episodes": 64,
+      "rating": 9.1,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Black Clover",
+      "genre": "Action, Adventure",
+      "episodes": 170,
+      "rating": 8.1,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Re:Zero - Starting Life in Another World",
+      "genre": "Fantasy, Drama",
+      "episodes": 50,
+      "rating": 8.4,
+      "isDubbed": false
+    },
+    {
+      "animeName": "Code Geass",
+      "genre": "Action, Mecha",
+      "episodes": 50,
+      "rating": 8.9,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Vinland Saga",
+      "genre": "Adventure, Drama",
+      "episodes": 48,
+      "rating": 8.8,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Chainsaw Man",
+      "genre": "Action, Supernatural",
+      "episodes": 12,
+      "rating": 8.8,
+      "isDubbed": false
+    },
+    {
+      "animeName": "Dr. Stone",
+      "genre": "Sci-Fi, Adventure",
+      "episodes": 35,
+      "rating": 8.3,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Erased",
+      "genre": "Thriller, Mystery",
+      "episodes": 12,
+      "rating": 8.5,
+      "isDubbed": false
+    },
+    {
+      "animeName": "Haikyuu!!",
+      "genre": "Sports, Drama",
+      "episodes": 85,
+      "rating": 8.7,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Spy x Family",
+      "genre": "Comedy, Action",
+      "episodes": 25,
+      "rating": 8.6,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Your Lie in April",
+      "genre": "Drama, Romance",
+      "episodes": 22,
+      "rating": 8.6,
+      "isDubbed": true
+    },
+    {
+      "animeName": "The Rising of the Shield Hero",
+      "genre": "Fantasy, Action",
+      "episodes": 38,
+      "rating": 8.0,
+      "isDubbed": true
+    },
+    {
+      "animeName": "Parasyte: The Maxim",
+      "genre": "Horror, Sci-Fi",
+      "episodes": 24,
+      "rating": 8.4,
+      "isDubbed": true
+    }
+  ]
+  
