@@ -1,7 +1,9 @@
 import "dotenv/config";
+import cors from "cors";
 import express from "express";
 import anime_route from "./router/anime_route.js";
 import connectDB from "./DB_connection/db_connection.js";
+app.use(cors()); 
 
 const app = express();
 const PORT = process.env.PORT || 3000;
